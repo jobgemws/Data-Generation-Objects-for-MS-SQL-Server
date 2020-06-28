@@ -1,0 +1,4 @@
+﻿
+CREATE VIEW [test].[GetRandVarbinary16]
+AS
+SELECT CRYPT_GEN_RANDOM(16, CAST((SELECT TOP(1) [NewID] FROM [test].[GetNewID]) AS VARBINARY(16))) AS [Value];

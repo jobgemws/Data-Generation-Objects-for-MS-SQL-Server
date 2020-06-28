@@ -1,0 +1,4 @@
+﻿
+CREATE VIEW [test].[GetNewID]
+AS
+SELECT NEWID() AS [NewID];
