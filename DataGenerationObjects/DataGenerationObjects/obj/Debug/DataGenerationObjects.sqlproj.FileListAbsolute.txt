@@ -1,0 +1,10 @@
+D:\GitHub\Data-Generation-Objects-for-MS-SQL-Server\DataGenerationObjects\DataGenerationObjects\bin\Debug\DataGenerationObjects.dacpac
+D:\GitHub\Data-Generation-Objects-for-MS-SQL-Server\DataGenerationObjects\DataGenerationObjects\bin\Debug\DataGenerationObjects.dll
+D:\GitHub\Data-Generation-Objects-for-MS-SQL-Server\DataGenerationObjects\DataGenerationObjects\bin\Debug\DataGenerationObjects.pdb
+D:\GitHub\Data-Generation-Objects-for-MS-SQL-Server\DataGenerationObjects\DataGenerationObjects\obj\Debug\DataGenerationObjects.sqlprojAssemblyReference.cache
+D:\GitHub\Data-Generation-Objects-for-MS-SQL-Server\DataGenerationObjects\DataGenerationObjects\obj\Debug\Model.xml
+D:\GitHub\Data-Generation-Objects-for-MS-SQL-Server\DataGenerationObjects\DataGenerationObjects\obj\Debug\refactor.xml
+D:\GitHub\Data-Generation-Objects-for-MS-SQL-Server\DataGenerationObjects\DataGenerationObjects\obj\Debug\postdeploy.sql
+D:\GitHub\Data-Generation-Objects-for-MS-SQL-Server\DataGenerationObjects\DataGenerationObjects\obj\Debug\predeploy.sql
+D:\GitHub\Data-Generation-Objects-for-MS-SQL-Server\DataGenerationObjects\DataGenerationObjects\obj\Debug\DataGenerationObjects.dll
+D:\GitHub\Data-Generation-Objects-for-MS-SQL-Server\DataGenerationObjects\DataGenerationObjects\obj\Debug\DataGenerationObjects.pdb
